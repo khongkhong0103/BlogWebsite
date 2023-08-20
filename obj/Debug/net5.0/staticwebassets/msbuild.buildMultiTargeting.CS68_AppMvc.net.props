@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CS68_AppMvc.net.props" />
+</Project>
